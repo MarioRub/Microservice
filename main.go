@@ -6,7 +6,9 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/MarioRub/Microservices/account"
+	// "github.com/MarioRub/Microservices/account"
+	"Microservice/account"
+
 	_ "github.com/lib/pq"
 
 	"github.com/go-kit/kit/log"
